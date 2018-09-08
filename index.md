@@ -1,8 +1,9 @@
 ## Welcome !
 My name is Pavan, I am a young programmer who built android applications/libraries for a living for about 4 years starting from the 2nd year of my undergraduate course. I also happened to take up a lot of MOOCs to feel out the reach and potential of Computer Science. I took up courses which taught me Python, object oriented programming in java and building REST APIs using nodeJS. As I delved deeper into this field which is the next thing to a super power, I found myself just scratching the surface of it. I happened to come across a problem in my work place where they were trying to detect plant diseases based on visuals, crop recommendations for farmers which fascinated me and got me into Machine Learning. I have been passionately doing Machine Learning since then.   
-You can head over to my [LinkedIn](https://www.linkedin.com/in/pavanvenkatesh/) to look at how I have spent my life so far in detail.
-
-## Open source contributions in Android / Libraries : 
+You can head over to my [LinkedIn](https://www.linkedin.com/in/pavanvenkatesh/) to look at how I have spent my professional life so far in detail.
+My Journey and their outcomes :
+- [Android](#android)
+## Android
 ### Carousel Picker
 An easy plug and play Carousel picker library for android which supports both text and icons.  
  <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_image_480.gif" height="500"> <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_text_480.gif" height="500">
