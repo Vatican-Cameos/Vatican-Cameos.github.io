@@ -27,7 +27,7 @@ A Horizontal picker library for android which supports both text and icons.
 ![alt tag](https://github.com/GoodieBag/HorizontalPicker/blob/master/gif/HPtap.gif?raw=true)        ![alt tag](https://github.com/GoodieBag/HorizontalPicker/blob/master/gif/HPslide.gif?raw=true)
 
 ## MOOCs And Publications
-- [Object Oriented Programming in Java] (https://www.coursera.org/account/accomplishments/verify/6KYJP6U7R3X4)
+- [Object Oriented Programming in Java](https://www.coursera.org/account/accomplishments/verify/6KYJP6U7R3X4)
 - [Server-side Development with NodeJS by The Hong Kong University of Science and Technology on Coursera](https://www.coursera.org/account/accomplishments/certificate/ZVF5AVL6GWS7)
 - Publication : [Smart Advertising Platform using Raspberry pi and Push Notifications](https://drive.google.com/file/d/0B1S4ksxYY-PDTEcxYWMxYlljdXM/view). Please refer Volume : 4, Issue : 22, Page 353.
 
