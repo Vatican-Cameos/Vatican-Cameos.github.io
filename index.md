@@ -4,8 +4,14 @@ You can head over to my [LinkedIn](https://www.linkedin.com/in/pavanvenkatesh/) 
 
 ### Open source contributions in Android / Libraries : 
 #### Carousel Picker
+An easy plug and play Carousel picker library for android which supports both text and icons.
  <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_image_480.gif" height="500"> <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_text_480.gif" height="500">
   
+#### Protractor View  
+A semicircular seekbar view for selecting an angle from 0° to 180.
+
+![alt tag](https://github.com/GoodieBag/ProtractorView/blob/5b691ab3e4294a2a896620ad27104b03618105e1/gif/PVcolors.gif?raw=true)		![alt tag](https://github.com/GoodieBag/ProtractorView/blob/5b691ab3e4294a2a896620ad27104b03618105e1/gif/PVgreen.gif?raw=true)   
+
 You can use the [editor on GitHub](https://github.com/Vatican-Cameos/Vatican-Cameos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
