@@ -5,7 +5,6 @@ You can head over to my [LinkedIn](https://www.linkedin.com/in/pavanvenkatesh/) 
 ### Open source contributions in Android / Libraries : 
 #### Carousel Picker
  <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_image_480.gif" height="500"> <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_text_480.gif" height="500">
-<img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_mix_480.gif" height="500">
   
 You can use the [editor on GitHub](https://github.com/Vatican-Cameos/Vatican-Cameos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
